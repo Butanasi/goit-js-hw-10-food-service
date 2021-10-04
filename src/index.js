@@ -1,1 +1,2 @@
-console.log('qweqwe')
+import "./js/lightdark";
+import "./js/markup";
